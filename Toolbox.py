@@ -46,9 +46,9 @@ def time_day():
 # Formats book/movie titles
 def title(old_title):
     """
-    This program takes a string and capitilizes every word that is not
+    This program takes a string and capitalizes every word that is not
     a function word (and, or, etc...) and also moves the 'The' at the beginning
-    to the end of the title preceded by a comma
+    to the end of the title preceded by a comma.
     :param old_title: This is the title you want to change
     :return: Returns modified title
     """
